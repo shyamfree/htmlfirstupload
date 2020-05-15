@@ -1,0 +1,80 @@
+body
+{
+
+	padding-left:300px;
+ 	
+ 	background-image: url("record page.jpg");
+ 	background-repeat: no-repeat;
+ 	background-size:600px; 
+ 	background-position: 200px 0px;
+	padding-bottom: 500px;
+	
+
+}
+img
+{
+	width:150px;
+	padding-left: 110px;
+	height: normal;
+}
+
+.government
+{
+ padding-left: 55px;
+ letter-spacing: 0em;
+ line-height: 20px;
+}
+.college
+{
+  width:430px;
+  line-height: 30px;
+}
+.puram
+{
+	width:450px;
+  line-height: 0px;
+  padding-left: 50px;
+  font-family: arial;
+  font-style: bold;
+}
+.palakkad
+{
+	width:450px;
+  line-height: 15px;
+  padding-left: 68px;
+  font-family:serif;
+  font-style: normal;
+}
+.record
+{
+	width: 500px;
+	font-family: sans-serif;
+	font-size:14px;
+	padding-left: 5px;
+}
+.name
+{
+	width:330px;
+	font-size: 10px;
+	font-family: Times New Roman;
+	font-weight: normal;
+	font-style: normal;
+	padding-left: 13px;
+	border:2px;
+	border-color:black; 
+	border-style: outset;
+	border-radius: 20px;
+	line-height: 30px;
+
+
+
+
+}
+.dots
+{
+	padding-left: 20px;
+	font-family: Times New Roman;
+	font-style: italic;
+	font-weight: normal;
+}
+
